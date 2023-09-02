@@ -17,6 +17,7 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]()
 [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()
+</br>
 [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
 [![EVM](https://img.shields.io/badge/EVM-white?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=black&color=%233C3C3D)]()
 [![Solidity](https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&logoColor=white&labelColor=black&color=%23363636)]()
