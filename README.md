@@ -12,7 +12,6 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 
 ## Tecnologías utilizadas 🛠️
 
-## Tecnologías utilizadas 🛠️
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]()
@@ -32,6 +31,19 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 Si estás interesado en explorar mi progreso en el mundo del desarrollo Full-Stack y blockchain, te invito a echar un vistazo a algunos de mis repositorios más relevantes:
 
 <br>
+
+## Criptomonedas y Tecnología Blockchain 💰
+
+Soy un apasionado de la tecnología blockchain y su impacto en el mundo financiero y más allá. Aquí hay algunos aspectos relacionados con criptomonedas y blockchain que me interesan:
+
+- **Bitcoin (BTC)**: La criptomoneda pionera, conocida por su papel en la creación de la tecnología blockchain. [![Bitcoin Logo](https://cryptologos.cc/logos/bitcoin-btc-logo.png)](https://bitcoin.org/)
+
+- **Ethereum (ETH)**: Una plataforma blockchain líder que permite la creación de contratos inteligentes y aplicaciones descentralizadas. [![Ethereum Logo](https://cryptologos.cc/logos/ethereum-eth-logo.png)](https://ethereum.org/)
+
+- **Máquina Virtual Ethereum (EVM)**: La EVM es el corazón de Ethereum y permite la ejecución de contratos inteligentes. Es fundamental para la descentralización y la automatización en blockchain. [![EVM](https://cryptologos.cc/logos/ethereum-eth-logo.png)](https://ethereum.org/greeter)
+
+Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial transformador en diversas industrias. Si tienes preguntas o deseas discutir temas relacionados con criptomonedas o blockchain, ¡no dudes en contactarme!
+
 
 ## Contáctame 📫
 
