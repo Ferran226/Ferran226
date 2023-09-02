@@ -1,4 +1,5 @@
-# Ferran Coll 👨‍💻 - Desarrollador Full-Stack y Entusiasta de Blockchain 🚀
+# Hola, mi nombre es Ferran Coll 👨🏻‍💻 
+### Desarrollador Full-Stack y Entusiasta de Blockchain 🚀
 
 ¡Hola! Soy Ferran Coll, un apasionado aprendiz de desarrollo Full-Stack y un entusiasta de la tecnología blockchain. Este es mi espacio donde comparto mi viaje en el mundo del desarrollo web y blockchain.
 
@@ -59,10 +60,12 @@ Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial t
 
 Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo web o blockchain, no dudes en ponerte en contacto conmigo a través de:
 
-- [![LinkedIn](https://fontawesome.com/icons/linkedin-square?style=brands)](https://www.linkedin.com/in/ferran-coll-) LinkedIn
-- [![Correo Electrónico](https://fontawesome.com/icons/envelope?style=solid)](ferrancolllopez@gmail.com) Correo Electrónico
-- [![Discord](https://fontawesome.com/icons/discord?style=brands)](Discord) ferran0504
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)]
+(https://www.linkedin.com/in/ferran-coll-)
+- [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335)]
+(ferrancolllopez@gmail.com) Correo Electrónico
+- [![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=black)]
+(Discord) ferran0504
 
 
 <br>
