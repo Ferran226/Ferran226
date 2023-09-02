@@ -16,6 +16,8 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Html]https://img.shields.io/badge/:badgeContent?style=plano&logo=html&logoColor=negro&label=html&labelColor=naranja&color=blanco]()
+
 
 
 - Desarrollo Web: HTML, CSS, JavaScript
