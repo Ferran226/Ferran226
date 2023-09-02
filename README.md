@@ -36,11 +36,11 @@ Si estás interesado en explorar mi progreso en el mundo del desarrollo Full-Sta
 
 Soy un apasionado de la tecnología blockchain y su impacto en el mundo financiero y más allá. Aquí hay algunos aspectos relacionados con criptomonedas y blockchain que me interesan:
 
-- **Bitcoin (BTC)**: La criptomoneda pionera, conocida por su papel en la creación de la tecnología blockchain. [![Bitcoin Logo](https://cryptologos.cc/logos/bitcoin-btc-logo.png)](https://bitcoin.org/)
+- **Bitcoin (BTC)**: La criptomoneda pionera, conocida por su papel en la creación de la tecnología blockchain. [<img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin Logo" width="30"/>](https://bitcoin.org/)
 
-- **Ethereum (ETH)**: Una plataforma blockchain líder que permite la creación de contratos inteligentes y aplicaciones descentralizadas. [![Ethereum Logo](https://cryptologos.cc/logos/ethereum-eth-logo.png)](https://ethereum.org/)
+- **Ethereum (ETH)**: Una plataforma blockchain líder que permite la creación de contratos inteligentes y aplicaciones descentralizadas. [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum Logo" width="30"/>](https://ethereum.org/)
 
-- **Máquina Virtual Ethereum (EVM)**: La EVM es el corazón de Ethereum y permite la ejecución de contratos inteligentes. Es fundamental para la descentralización y la automatización en blockchain. [![EVM](https://cryptologos.cc/logos/ethereum-eth-logo.png)](https://ethereum.org/greeter)
+- **Máquina Virtual Ethereum (EVM)**: La EVM es el corazón de Ethereum y permite la ejecución de contratos inteligentes. Es fundamental para la descentralización y la automatización en blockchain. [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="EVM Logo" width="30"/>](https://ethereum.org/greeter)
 
 Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial transformador en diversas industrias. Si tienes preguntas o deseas discutir temas relacionados con criptomonedas o blockchain, ¡no dudes en contactarme!
 
@@ -48,6 +48,10 @@ Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial t
 ## Contáctame 📫
 
 Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo web o blockchain, no dudes en ponerte en contacto conmigo a través de:
+
+- [![LinkedIn](https://fontawesome.com/icons/linkedin-square?style=brands)](https://www.linkedin.com/in/ferran-coll-) LinkedIn
+- [![Correo Electrónico](https://fontawesome.com/icons/envelope?style=solid)](ferrancolllopez@gmail.com) Correo Electrónico
+- [![Discord](https://fontawesome.com/icons/discord?style=brands)](Discord) ferran0504
 
 
 
