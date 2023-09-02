@@ -16,6 +16,12 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]()
 [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()
+[![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
+[![EVM](https://img.shields.io/badge/EVM-white?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=black&color=%233C3C3D)]()
+[![Solidity](https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&logoColor=white&labelColor=black&color=%23363636)]()
+
+
+
 
 
 
@@ -43,7 +49,7 @@ Soy un apasionado de la tecnología blockchain y su impacto en el mundo financie
 - [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum Logo" width="15"/>](https://ethereum.org/) **Ethereum (ETH)**: Una plataforma blockchain líder que permite la creación de contratos inteligentes y aplicaciones descentralizadas.
  
 
-- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="EVM Logo" width="30"/>](https://ethereum.org/greeter)
+- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="EVM Logo" width="15"/>](https://ethereum.org/greeter)
  **Máquina Virtual Ethereum (EVM)**: La EVM es el corazón de Ethereum y permite la ejecución de contratos inteligentes. Es fundamental para la descentralización y la automatización en blockchain.
   
 Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial transformador en diversas industrias. Si tienes preguntas o deseas discutir temas relacionados con criptomonedas o blockchain, ¡no dudes en contactarme!
