@@ -61,12 +61,9 @@ Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial t
 
 Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo web o blockchain, no dudes en ponerte en contacto conmigo a través de:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)]
-(https://www.linkedin.com/in/ferran-coll-)
-- [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335)]
-(ferrancolllopez@gmail.com) Correo Electrónico
-- [![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=black)]
-(Discord) ferran0504
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/ferran-coll-)
+</br>
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](ferrancolllopez@gmail.com)
 
 
 <br>
