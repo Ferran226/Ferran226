@@ -14,9 +14,8 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 
 ## Tecnologías utilizadas 🛠️
 
-- [<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="20"/> Python](https://www.python.org/)
-- [<img src="https://developer.mozilla.org/static/img/logo.svg" alt="HTML" width="20"/> HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [<img src="https://developer.mozilla.org/static/img/logo.svg" alt="CSS" width="20"/> CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 
 - Desarrollo Web: HTML, CSS, JavaScript
@@ -36,9 +35,6 @@ Si estás interesado en explorar mi progreso en el mundo del desarrollo Full-Sta
 
 Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo web o blockchain, no dudes en ponerte en contacto conmigo a través de:
 
-- [![LinkedIn](https://fontawesome.com/icons/linkedin-square?style=brands)](https://www.linkedin.com/in/ferran-coll-) LinkedIn
-- [![Correo Electrónico](https://fontawesome.com/icons/envelope?style=solid)](ferrancolllopez@gmail.com) Correo Electrónico
-- [![Discord](https://fontawesome.com/icons/discord?style=brands)](Discord) ferran0504
 
 
 <br>
