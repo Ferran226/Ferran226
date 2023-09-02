@@ -12,9 +12,12 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 
 ## Tecnologías utilizadas 🛠️
 
-- [![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
-- [![HTML](https://developer.mozilla.org/static/img/logo.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [![CSS](https://developer.mozilla.org/static/img/logo.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## Tecnologías utilizadas 🛠️
+
+- [<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="20"/> Python](https://www.python.org/)
+- [<img src="https://developer.mozilla.org/static/img/logo.svg" alt="HTML" width="20"/> HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [<img src="https://developer.mozilla.org/static/img/logo.svg" alt="CSS" width="20"/> CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 - Desarrollo Web: HTML, CSS, JavaScript
 - Tecnologías Back-End: Python, Node.js
