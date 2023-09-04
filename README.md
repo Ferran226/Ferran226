@@ -22,9 +22,11 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]()
 
 </br>
+
 [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
 [![EVM](https://img.shields.io/badge/EVM-white?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=black&color=%233C3C3D)]()
 [![Solidity](https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&logoColor=white&labelColor=black&color=%23363636)]()
+
 
 
 
